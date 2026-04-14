@@ -13,6 +13,9 @@ int main() {
     } else {
         printf("Angka yang dimasukkan adalah nol.\n");
     }
+    else {
+        printf("Angka yang dimasukkan adalah nol.\n");
+    }
 
     return 0;
 }
